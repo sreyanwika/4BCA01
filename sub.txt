@@ -1,0 +1,5 @@
+sub(){
+int a,b;
+int mul=a-b;
+the sub is....
+}
